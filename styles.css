@@ -69,7 +69,7 @@ p{margin:0}
 .panel-blue{background:var(--blue-bg)}
 .panel-copy{flex:1 1 320px;min-width:0;display:flex;flex-direction:column;gap:18px}
 .panel-copy p:not(.eyebrow){color:var(--ink2);max-width:560px}
-.panel-photos{flex:1 1 280px;min-width:0;display:flex;gap:16px;justify-content:center}
+.panel-photos{flex:1 1 280px;min-width:0;display:flex;gap:16px;justify-content:center;align-items:flex-start}
 .panel-photos img{width:46%;max-width:240px;aspect-ratio:1;object-fit:cover;border-radius:28px}
 .panel-photos .offset{margin-top:40px}
 
